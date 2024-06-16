@@ -40,7 +40,7 @@ const OnboardingScreen = () => {
                         </View>
                     ),
                     title: 'Find your place',
-                    subtitle: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.',
+                    subtitle: 'We can find you the best place ever.',
                     titleStyles: styles.title,
                     subTitleStyles: styles.subtitle,
                 },
@@ -51,8 +51,8 @@ const OnboardingScreen = () => {
                             <Image source={require('../assets/onboarding2.jpg')} style={styles.image} />
                         </View>
                     ),
-                    title: 'Contact us anytime',
-                    subtitle: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.',
+                    title: 'Find the dress',
+                    subtitle: 'Find the best dream dress.',
                     titleStyles: styles.title,
                     subTitleStyles: styles.subtitle,
                 },
@@ -63,8 +63,8 @@ const OnboardingScreen = () => {
                             <Image source={require('../assets/onboarding3.jpg')} style={styles.image} />
                         </View>
                     ),
-                    title: 'Pick your food',
-                    subtitle: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.',
+                    title: 'Find the ring',
+                    subtitle: 'We have a lot of choices that you can take a look and select.',
                     titleStyles: styles.title,
                     subTitleStyles: styles.subtitle,
                 },
